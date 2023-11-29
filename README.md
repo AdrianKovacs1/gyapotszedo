@@ -1,2 +1,2 @@
-# gyapotszedo
-nigga
+# kovacs11
+gorilla
