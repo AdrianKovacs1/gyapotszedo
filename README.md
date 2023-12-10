@@ -1,2 +1,2 @@
-# kovacs11
-gorilla
+# gapotszedo
+Free n-word pass
